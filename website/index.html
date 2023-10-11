@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="title" content="Leaderboard - Count for Life">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta property="og:description" content="">
+    <meta property="og:title" content="Leaderboard">
+    <meta property="og:site_name" content="Count for Life">
+    <link rel="icon" href="/favicon.png">
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/leaderboard.css">
+    <script src="/script.js"></script>
+    <script src="/leaderboard.js"></script>
+    <title>Leaderboard - Count for Life</title>
+</head>
+<body>
+    <header>
+        <h1>Count for Life</h1>
+        <a class="join" href="/discord">Join</a>
+        <i class="bx bx-dots-vertical-rounded" onclick="toggleMobileNav(this)"></i>
+    </header>
+    <div class="loader"></div>
+    <div class="container">
+        <h2 class="section-title">Current Counts</h2>
+        <div class="counts">
+            <div class="counts-count">
+                <h3 class="counts-title">Easy Mode</h3>
+                <p class="counts-number" id="countsEasy"></p>
+            </div>
+            <div class="counts-count">
+                <h3 class="counts-title">Hard Mode</h3>
+                <p class="counts-number" id="countsHard"></p>
+            </div>
+            <div class="counts-count">
+                <h3 class="counts-title">Premium Mode</h3>
+                <p class="counts-number" id="countsPre"></p>
+            </div>
+        </div>
+        <h2 class="section-title">Leaderboard</h2>
+        <div class="table">
+            <div class="headings lbrow">
+                <h4 onclick="generateRows('invites', this)">Invites</h4>
+                <h4 onclick="generateRows('messages', this)">Messages</h4>
+                <h4 onclick="generateRows('premium', this)">Premium</h4>
+                <h4 onclick="generateRows('hard', this)">Hard</h4>
+                <h4 onclick="generateRows('easy', this)">Easy</h4>
+            </div>
+            <div id="leaderboardRows"></div>
+        </div>
+    </div>
+    <footer>
+        <a href="/">Home</a>
+        <a href="/discord">Discord Server</a>
+        <p>&copy; Thomas Owen 2022 - 2023</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,44 @@
+{
+    "token": "OTI2Mzg3MTEyMDM3NzMyNDE0.GFjiHh.NzfkmsndqgOFrSzda5a4tw1OMAn_06oI9p06gg",
+    "port": "2001",
+    "auth": "CTB_22",
+    "colors": [
+        "#2f3136",
+        "#f26666",
+        "#73e7e6",
+        "#ff9f40"
+    ],
+    "avatars": [
+        "https://cdn.discordapp.com/embed/avatars/0.png",
+        "https://cdn.discordapp.com/embed/avatars/1.png",
+        "https://cdn.discordapp.com/embed/avatars/2.png",
+        "https://cdn.discordapp.com/embed/avatars/3.png",
+        "https://cdn.discordapp.com/embed/avatars/4.png",
+        "https://cdn.discordapp.com/embed/avatars/5.png"
+    ],
+    "owners": ["760170825629958184", "709960501378940939", "864956564342046740"],
+    "webhook": "https://discord.com/api/webhooks/1036722109663158352/NNYWpNbQ3IMkvf1HdLABwuDRCs7scbJ04in5_Uz9MmO8jwV03tSJ55xM896j_xockUr4",
+    "easy_channel": "1064128463017099306",
+    "hard_channel": "1064128514284077066",
+    "premium_channel": "1064128565186134036",
+    "hof_channel": "918218770173009960",
+    "snipe_channel": "972256867432685638",
+    "leaderboard_channel": "928740341417377883",
+    "easy_ping": "936542887783596032",
+    "hard_ping": "936542954682744843",
+    "premium_ping": "936543041890689046",
+    "sniper_1_role": "905924479455223899",
+    "sniper_2_role": "905924923422277752",
+    "sniper_3_role": "905924926173773854",
+    "welcome_channel": "905859582969131052",
+    "reaction_roles_message": "936574157624311858",
+    "reaction_roles": {
+        "1️⃣": "936542887783596032",
+        "2️⃣": "936542954682744843",
+        "3️⃣": "936543041890689046",
+        "📣": "911626594697773076",
+        "🎉": "911625555835748373",
+        "📢": "911625760001896489",
+        "🤝": "911625691613765652"
+    }
+}

@@ -1,0 +1,139 @@
+{
+  "1036722109663158352": {
+    "id": "1036722109663158352",
+    "easy": 0,
+    "hard": 0,
+    "premium": 0,
+    "messages": 48,
+    "invites": 0,
+    "snipes": [],
+    "keycounts": []
+  },
+  "864956564342046740": {
+    "id": "864956564342046740",
+    "easy": 27,
+    "hard": 14,
+    "premium": 0,
+    "messages": 10,
+    "invites": 0,
+    "snipes": [],
+    "keycounts": [
+      {
+        "name": "1st Count",
+        "count": 1
+      },
+      {
+        "name": "10th Count",
+        "count": 26
+      }
+    ]
+  },
+  "760170825629958184": {
+    "id": "760170825629958184",
+    "easy": 15,
+    "hard": 5,
+    "premium": 0,
+    "messages": 32,
+    "invites": 0,
+    "snipes": [],
+    "keycounts": [
+      {
+        "name": "1st Count",
+        "count": 2
+      },
+      {
+        "name": "10th Count",
+        "count": 5
+      }
+    ]
+  },
+  "903541347041038357": {
+    "id": "903541347041038357",
+    "easy": 0,
+    "hard": 0,
+    "premium": 0,
+    "messages": 3,
+    "invites": 0,
+    "snipes": [],
+    "keycounts": []
+  },
+  "744008803661643797": {
+    "id": "744008803661643797",
+    "easy": 1,
+    "hard": 0,
+    "premium": 0,
+    "messages": 0,
+    "invites": 0,
+    "snipes": [],
+    "keycounts": [
+      {
+        "name": "1st Count",
+        "count": 4
+      }
+    ]
+  },
+  "894937232052482048": {
+    "id": "894937232052482048",
+    "easy": 16,
+    "hard": 10,
+    "premium": 0,
+    "messages": 0,
+    "invites": 0,
+    "snipes": [],
+    "keycounts": [
+      {
+        "name": "1st Count",
+        "count": 7
+      },
+      {
+        "name": "10th Count",
+        "count": 1
+      }
+    ]
+  },
+  "616404977979621383": {
+    "id": "616404977979621383",
+    "easy": 1,
+    "hard": 0,
+    "premium": 0,
+    "messages": 0,
+    "invites": 0,
+    "snipes": [],
+    "keycounts": [
+      {
+        "name": "1st Count",
+        "count": 10
+      }
+    ]
+  },
+  "960220138249011241": {
+    "id": "960220138249011241",
+    "easy": 0,
+    "hard": 0,
+    "premium": 0,
+    "messages": 1,
+    "invites": 0,
+    "snipes": [],
+    "keycounts": []
+  },
+  "960449973948936232": {
+    "id": "960449973948936232",
+    "easy": 0,
+    "hard": 0,
+    "premium": 0,
+    "messages": 3,
+    "invites": 0,
+    "snipes": [],
+    "keycounts": []
+  },
+  "669627189624307712": {
+    "id": "669627189624307712",
+    "easy": 0,
+    "hard": 0,
+    "premium": 0,
+    "messages": 1,
+    "invites": 0,
+    "snipes": [],
+    "keycounts": []
+  }
+}
