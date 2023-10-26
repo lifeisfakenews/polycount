@@ -1,6 +1,6 @@
 {
-    "token": "OTI2Mzg3MTEyMDM3NzMyNDE0.GFjiHh.NzfkmsndqgOFrSzda5a4tw1OMAn_06oI9p06gg",
-    "port": "2001",
+    "token": "<DISCORD BOT TOKEN>",
+    "port": "<PORT ITS RUNNING ON (you may or may not need this depending on your host)>",
     "auth": "CTB_22",
     "colors": [
         "#2f3136",
